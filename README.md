@@ -18,7 +18,7 @@
     </a>
   </p>
 
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Bongo Cat programando" width="200" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWgzMzl2eG4wM3N0cDNyMXRwbHVzMnd5MG14cnV1N2Joazg1OTRmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HEURGne9Vj856oivkD/giphy.gif" width="200" />
 </div>
 
 <br>
