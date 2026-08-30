@@ -17,18 +17,20 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
   </p>
+
+  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Bongo Cat programando" width="200" />
 </div>
 
 <br>
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajo en **Orgánicamente, Marketing y Publicidad** como Diseñador Gráfico y Edición de Material Audiovisual.
-- 🌱 Actualmente estoy aprendiendo **Automatización de flujos con IA** (Make, n8n, Gemini).
-- 👯 Busco colaborar en **Proyectos que integren desarrollo web (Frontend/Backend) e Inteligencia Artificial**.
-- 🤝 Busco ayuda con **Escalabilidad de bases de datos y arquitecturas**.
-- 💬 Pregúntame sobre **Desarrollo Web, Make**.
-- ⚡ **Dato curioso:** Escribo código y diseño desde La Paz, Bolivia. Además, disfruto del gaming 🎮 (como las partidas en AirConsole) y me gusta mucho la fotografía 📷.
-
+- 🔭 Actualmente trabajo en **Orgánicamente, Marketing y Publicidad" como Diseñador Gráfico y Edición de Material Audiovisual**
+- 🌱 Actualmente estoy aprendiendo **Automatización de flujos con IA**
+- 👯 Busco colaborar en **Proyectos que integren desarrollo web (Frontend/Backend) e Inteligencia Artificial**
+- 🤝 Busco ayuda con **Escalabilidad de bases de datos y arquitecturas**
+- 💬 Pregúntame sobre **Desarrollo Web, Make**
+- 📫 Cómo contactarme **lopezmaycolh@gmail.com**
+- ⚡ Dato curioso **Además del código y el diseño, disfruto del gaming 🎮 y me gusta mucho la fotografía 📷**
 <br>
 
 ### 🛠️ Lenguajes y Herramientas
@@ -46,10 +48,8 @@
 
 <br>
 
-<div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  </picture>
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
