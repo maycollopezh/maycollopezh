@@ -10,7 +10,7 @@
     <a href="https://instagram.com/_maycol_lopez_" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://fb.com/maycollopez" target="_blank">
+    <a href="https://www.facebook.com/maycol.lopez.514826" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
     <a href="mailto:lopezmaycolh@gmail.com">
@@ -47,4 +47,19 @@
 
 <br>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/snake-output/snake.svg" alt="Snake animation" />
+<br>
+
+<div align="center">
+  <!-- Gráfico dinámico de actividad -->
+  <a href="https://github.com/maycollopezh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maycollopezh&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Gráfico de Actividad de Maycol" width="100%">
+  </a>
+  
+  <br><br>
+  
+  <!-- Texto animado de cierre -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=De+Bolivia+para+el+mundo+🌍;Diseñador+Creativo+%2B+Desarrollador+💻;Amante+del+Gaming+y+la+Tecnología+🎮" alt="Typing SVG" />
+  
+  <!-- Ola decorativa invertida para el pie de página -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
