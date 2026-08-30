@@ -34,18 +34,22 @@
 ### 🛠️ Lenguajes y Herramientas
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,cpp,cs,mysql,git,figma,ai,ps,opencv&perline=7" alt="Habilidades de Maycol" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,cpp,cs,mysql,git,figma,ai,ps&perline=7" alt="Habilidades de Maycol" />
   </a>
 </div>
 
 <br>
 
-### 📊 Estadísticas de GitHub
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=maycollopezh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<br>
+
 <div align="center">
-  <a href="https://github.com/maycollopezh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycollopezh&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Maycol" />
-  </a>
-  <a href="https://github.com/maycollopezh">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycollopezh&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-  </a>
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
 </div>
