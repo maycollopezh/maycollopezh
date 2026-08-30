@@ -18,7 +18,6 @@
     </a>
   </p>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWgzMzl2eG4wM3N0cDNyMXRwbHVzMnd5MG14cnV1N2Joazg1OTRmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HEURGne9Vj856oivkD/giphy.gif" width="200" />
 </div>
 
 <br>
@@ -48,8 +47,4 @@
 
 <br>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/maycollopezh/maycollopezh/snake-output/snake.svg" alt="Snake animation" />
