@@ -26,7 +26,6 @@
 - 🔭 Actualmente trabajo en **Orgánicamente, Marketing y Publicidad" como Diseñador Gráfico y Edición de Material Audiovisual**
 - 🌱 Actualmente estoy aprendiendo **Automatización de flujos con IA**
 - 👯 Busco colaborar en **Proyectos que integren desarrollo web (Frontend/Backend) e Inteligencia Artificial**
-- 💬 Pregúntame sobre **Desarrollo Web, Make**
 - 📫 Cómo contactarme **lopezmaycolh@gmail.com**
 - ⚡ Dato curioso **Además del código y el diseño, disfruto del gaming 🎮 y me gusta mucho la fotografía 📷**
 <br>
@@ -34,7 +33,7 @@
 ### 🛠️ Lenguajes y Herramientas
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,cpp,cs,mysql,git,figma,ai,ps&perline=7" alt="Habilidades de Maycol" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,cs,mysql,git,figma,ai,ps&perline=7" alt="Habilidades de Maycol" />
   </a>
 </div>
 
